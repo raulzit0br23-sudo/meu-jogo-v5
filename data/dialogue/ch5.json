@@ -1,0 +1,116 @@
+{
+ "arrival": [
+  {
+   "id": "ch5_ir_01",
+   "who": "irina",
+   "pt": "O Ferro-Velho de Lindqvist. Cuidado onde pisa. Os Rastejadores fazem ninho debaixo da sucata.",
+   "en": "Lindqvist's Scrapyard. Watch your step. The Crawlers nest under the scrap."
+  }
+ ],
+ "greet": [
+  {
+   "id": "ch5_lq_01",
+   "who": "lindqvist",
+   "pt": "Ah, o famoso Varga. Entre, entre. Não toque no cão, ele morde. Brincadeira, ele ainda não tem dentes.",
+   "en": "Ah, the famous Varga. Come in, come in. Don't touch the dog, he bites. I'm joking, he has no teeth yet."
+  },
+  {
+   "id": "ch5_lq_02",
+   "who": "lindqvist",
+   "pt": "Isto é para você. O Manipulador. Campo de tração ressonante, peças de três fábricas diferentes e muita paciência.",
+   "en": "This is for you. The Manipulator. Resonant traction field, parts from three different factories and a lot of patience."
+  }
+ ],
+ "manip_tutorial": [
+  {
+   "id": "ch5_lq_03",
+   "who": "lindqvist",
+   "pt": "Segure a mira para puxar um objeto. Dispare para empurrar. Segurando, dispare e ele voa. Experimente naquelas latas.",
+   "en": "Hold aim to pull an object. Fire to push. While holding, fire and it flies. Try it on those cans."
+  }
+ ],
+ "engine_block": [
+  {
+   "id": "ch5_lq_04",
+   "who": "lindqvist",
+   "pt": "A porta do galpão está bloqueada por aquele motor de caminhão. Com as mãos, nem pensar. Com o Manipulador, é só puxar.",
+   "en": "The shed door is blocked by that truck engine. With your hands, forget it. With the Manipulator, just pull."
+  }
+ ],
+ "stack": [
+  {
+   "id": "ch5_lq_05",
+   "who": "lindqvist",
+   "pt": "A bateria está no telhado do depósito. A escada caiu faz anos. Empilhe as caixas e suba.",
+   "en": "The battery is on the storehouse roof. The ladder fell years ago. Stack the crates and climb."
+  }
+ ],
+ "battery": [
+  {
+   "id": "ch5_lq_06",
+   "who": "lindqvist",
+   "pt": "Traga a bateria até o soquete do portão. Encaixe e o portão do pátio abre.",
+   "en": "Bring the battery to the gate socket. Slot it in and the yard gate opens."
+  }
+ ],
+ "battery_in": [
+  {
+   "id": "ch5_lq_07",
+   "who": "lindqvist",
+   "pt": "Perfeito. Ouviu isso? Ah, não. O barulho acordou os Rastejadores.",
+   "en": "Perfect. Did you hear that? Oh no. The noise woke the Crawlers."
+  }
+ ],
+ "crawlers": [
+  {
+   "id": "ch5_ir_02",
+   "who": "irina",
+   "pt": "Estão saindo da terra. Use as lâminas de serra, Tomás. Elas cortam aquelas carapaças como papel.",
+   "en": "They're coming out of the ground. Use the saw blades, Tomás. They cut those shells like paper."
+  }
+ ],
+ "crawlers_done": [
+  {
+   "id": "ch5_lq_08",
+   "who": "lindqvist",
+   "pt": "Acabou? Acabou. Venha à oficina, quero lhe mostrar uma coisa.",
+   "en": "Is it over? It's over. Come to the workshop, I want to show you something."
+  }
+ ],
+ "blueprint": [
+  {
+   "id": "ch5_lq_09",
+   "who": "lindqvist",
+   "pt": "Reconhece isto? Seus desenhos. Duto principal do Trocador de Ar, revisão quatro. O Domínio só mudou a escala.",
+   "en": "Do you recognize this? Your drawings. The Air Exchanger's main duct, revision four. The Dominion only changed the scale."
+  },
+  {
+   "id": "ch5_kv_01",
+   "who": "kovac",
+   "pt": "Agora entende por que precisamos de você, Varga. Ninguém conhece aquela máquina por dentro como você.",
+   "en": "Now you understand why we need you, Varga. Nobody knows that machine from the inside like you do."
+  }
+ ],
+ "buggy": [
+  {
+   "id": "ch5_lq_10",
+   "who": "lindqvist",
+   "pt": "O Besouro está pronto. Motor de trator, chassi de ambulância. Atravesse o Mar Seco até o Depósito. Siga as boias de sinalização.",
+   "en": "The Beetle is ready. Tractor engine, ambulance chassis. Cross the Dry Sea to the Depot. Follow the marker buoys."
+  },
+  {
+   "id": "ch5_ir_03",
+   "who": "irina",
+   "pt": "Eu vou pelo rádio. Kovač precisa de mim na Muralha. Volte inteiro.",
+   "en": "I'll be on the radio. Kovač needs me at the Wall. Come back in one piece."
+  }
+ ],
+ "dog": [
+  {
+   "id": "ch5_lq_11",
+   "who": "lindqvist",
+   "pt": "Ele ainda não tem nome. Quando andar sozinho, ganha um. Ideias?",
+   "en": "He doesn't have a name yet. When he walks on his own, he gets one. Any ideas?"
+  }
+ ]
+}

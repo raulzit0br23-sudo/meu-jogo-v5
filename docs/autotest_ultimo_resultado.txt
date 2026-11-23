@@ -1,0 +1,224 @@
+PASS dublagem PT/EN presente para todas as falas do cap. 1  (40 arquivos, faltando 0)
+PASS dublagem PT/EN presente para todas as falas do cap. 2  (36 arquivos, faltando 0)
+PASS dublagem PT/EN presente para todas as falas do cap. 3  (26 arquivos, faltando 0)
+PASS dublagem PT/EN presente para todas as falas do cap. 4  (42 arquivos, faltando 0)
+PASS dublagem PT/EN presente para todas as falas do cap. 5  (30 arquivos, faltando 0)
+PASS dublagem PT/EN presente para todas as falas do cap. 6  (20 arquivos, faltando 0)
+PASS capítulo 1 carrega e cria o jogador
+PASS início: objetivo de viagem  (obj.ch1.ride)
+PASS máscara existe no vagão
+PASS Bohdan sentado e conversável
+PASS diálogo com Bohdan toca
+PASS pegar máscara ativa a máscara do jogador
+PASS trem freia e chega à estação
+PASS objetivo: plataforma  (obj.ch1.platform)
+PASS portas do trem abriram
+PASS checkpoint estação  (station)
+PASS salvamento automático criado
+PASS fila: diálogo do Regente/Bohdan
+PASS door de serviço trancada antes do alarme
+PASS inspeção disparada
+PASS alarme destranca a porta de serviço
+PASS objetivo: fugir  (obj.ch1.flee)
+PASS guardas ativados (IA sai do modo passivo)  (3)
+PASS IA dos guardas em alerta/combate  (["combat", "combat", "combat"])
+PASS cidadãos fogem  (5)
+PASS guardas mortos registrados no estado  (["st_guard_0", "st_guard_1", "st_guard_2"])
+PASS ragdolls criados
+PASS checkpoint manutenção  (maint)
+PASS objetivo: chave inglesa  (obj.ch1.wrench)
+PASS chave inglesa adquirida
+PASS objetivo: duto  (obj.ch1.vent)
+PASS tábuas presentes
+PASS tiro não quebra as tábuas
+PASS golpes da chave inglesa quebram as tábuas
+PASS checkpoint duto  (vent)
+PASS caixas para empilhar na sala do duto  (3)
+PASS saliência do duto é piso firme a 1,75 m  (1.75)
+PASS duto: o jogador permanece no duto (agachado)  (1.75)
+PASS checkpoint casa de bombas  (pump)
+PASS pistola adquirida
+PASS emboscada: inimigos surgem
+PASS pistola consome munição  (15 → 12)
+PASS disparo atinge o inimigo
+PASS barril explosivo explode após tiro
+PASS caixa destrutível quebra em destroços
+PASS checkpoint pátio  (yard)
+PASS objetivo: pátio  (obj.ch1.yard)
+PASS sol ilumina área externa
+PASS inimigos do pátio presentes  (["yd_1", "yd_2", "yd_3", "yd_4", "yd_5"])
+PASS Irina chama no portão
+PASS vagão secreto lacrado com tábuas
+PASS SMG do vagão secreto
+PASS checkpoint guarita  (gate)
+PASS alavanca existe
+PASS alavanca aciona o portão
+PASS reforços chegam
+PASS portão abre completamente
+PASS salvamento manual
+PASS fim do capítulo 1 → carrega o capítulo 2
+PASS save: leitura do slot manual
+PASS save: capítulo/checkpoint gravados  (1/gate)
+PASS load: jogador renasce no checkpoint da guarita  ((50, 3.050107, -139.5))
+PASS load: inventário restaurado (pistola/SMG)
+PASS load: inimigos mortos não reaparecem
+PASS load: alavanca e portão mantêm estado
+PASS capítulo 2 carrega
+PASS cap2: objetivo inicial (rua)  (obj.ch2.street)
+PASS cap2: Irina acompanha (FOLLOW)
+PASS cap2: diálogo de abertura toca
+PASS cap2: checkpoint rua  (street2)
+PASS cap2: bloqueio de Vigilantes na rua
+PASS cap2: checkpoint/objetivo praça  (plaza obj.ch2.plaza)
+PASS cap2: patrulhas da praça  (4)
+PASS cap2: holofote detecta o jogador com linha de visão  ((9.764459, 0, -92.68304))
+PASS cap2: detecção alerta as patrulhas  (4 ["combat", "combat", "combat", "combat"])
+PASS cap2: checkpoint Bloco 14  (block)
+PASS cap2: escada do prédio sobe um andar (física real)  (y=3.05 z=-118.01)
+PASS cap2: checkpoint 5º andar  (floor5)
+PASS cap2: Matvei sentado e conversável
+PASS cap2: diálogo do Matvei
+PASS cap2: espingarda adquirida
+PASS cap2: batida policial começa
+PASS cap2: objetivo telhado  (obj.ch2.roof)
+PASS cap2: espingarda acerta (dano por chumbo)
+PASS cap2: checkpoint telhado  (roof)
+PASS cap2: salto correndo atravessa o vão entre telhados  (y=15.00 z=-133.08)
+PASS cap2: viga de aço sustenta o jogador até o telhado C  (y=15.00 z=-149.92)
+PASS cap2: checkpoint telhados  (roofs2)
+PASS cap2: escada de mão para o beco
+PASS cap2: salvamento manual
+PASS cap2: fim do capítulo → carrega o capítulo 3
+PASS capítulo 3 carrega
+PASS cap3: inventário herdado do cap. 2 (espingarda)
+PASS cap3: objetivo inicial  (obj.ch3.hall)
+PASS cap3: Kovač no rádio (abertura)
+PASS cap3: checkpoint galpão  (hall)
+PASS cap3: esteira transporta as carcaças  (3 itens, dz=2.23)
+PASS cap3: operários e capataz no galpão  (10)
+PASS cap3: capataz fala e indica o guindaste  (obj.ch3.pit)
+PASS cap3: checkpoint fosso  (pit)
+PASS cap3: sem ponte, o jogador cai no fosso  (y=-8.00)
+PASS cap3: botão 'baixar' bloqueado antes de mover o carro
+PASS cap3: guindaste desloca a plataforma sobre o fosso
+PASS cap3: plataforma desce e vira ponte
+PASS cap3: atravessa o fosso pela ponte (física real)  (y=0.00 z=-96.40)
+PASS cap3: checkpoint prensa  (press)
+PASS cap3: sobrecarga bloqueada antes das válvulas
+PASS cap3: 1ª válvula dispara alarme e reforços
+PASS cap3: escada da passarela leva a 5 m (física real)  (y=4.83 z=-138.38)
+PASS cap3: três válvulas fechadas liberam a sobrecarga
+PASS cap3: sobrecarga → objetivo fuga
+PASS cap3: porta do dreno abre
+PASS cap3: prensa explode (alarme encerrado)
+PASS cap3: entra no dreno andando  (x=22.50)
+PASS cap3: checkpoint dreno  (drain)
+PASS cap3: salvamento manual
+PASS cap3: Irina espera na saída
+PASS cap3: fim do capítulo → carrega o cap. 4
+PASS cap4: inventário herdado do cap. 3
+PASS cap3: load restaura estado (válvulas, ponte, sobrecarga)
+PASS capítulo 4 carrega
+PASS cap4: arsenal mínimo garantido  (["wrench", "pistol", "smg", "shotgun"])
+PASS cap4: objetivo inicial  (obj.ch4.sewer)
+PASS cap4: barco flutua na doca  (y=-1.08)
+PASS cap4: anda pela passarela do coletor  (z=-11.64 y=0.00)
+PASS cap4: comporta fechada bloqueia
+PASS cap4: manivela abre a comporta
+PASS cap4: checkpoint doca  (dock)
+PASS cap4: entra no barco
+PASS cap4: pilota o barco pelo canal até a barreira  (z=-179.3 x=-1.0)
+PASS cap4: Caçador aparece no canal
+PASS cap4: grade da barreira bloqueia o canal
+PASS cap4: checkpoint barreira  (barrier)
+PASS cap4: botão da cabine ergue a grade
+PASS cap4: barco passa a barreira até o reservatório  (z=-257.3)
+PASS cap4: checkpoint píer (canhão antiaéreo)  (basin)
+PASS cap4: canhão antiaéreo existe
+PASS cap4: Caçador abatido → objetivo Muralha  (obj.ch4.wall)
+PASS cap4: checkpoint cais  (quay)
+PASS cap4: holofotes na Muralha
+PASS cap4: salvamento manual
+PASS cap4: elevador sobe com o jogador  (elev=29.0 p.y=28.9)
+PASS cap4: topo da Muralha conclui o capítulo → cap. 5  (ch=5)
+PASS cap4: load restaura estado (comporta, grade, Caçador)
+PASS capítulo 5 carrega
+PASS cap5: objetivo inicial  (obj.ch5.find)
+PASS cap5: arsenal mínimo garantido  (["wrench", "pistol", "smg", "shotgun"])
+PASS cap5: motor bloqueia a portinhola
+PASS cap5: Lindqvist entrega o Manipulador
+PASS cap5: checkpoint pátio  (yard)
+PASS cap5: afastar o motor libera a portinhola  (obj.ch5.stack)
+PASS cap5: bateria no telhado do depósito  (y=2.61)
+PASS cap5: bateria retirada do telhado  (obj.ch5.battery)
+PASS cap5: portão fechado sem energia
+PASS cap5: bateria encaixada no soquete
+PASS cap5: portão sobe com a bateria
+PASS cap5: onda de Rastejadores surge  (n=4)
+PASS cap5: checkpoint pátio interno  (inner)
+PASS cap5: duas ondas de Rastejadores eliminadas  (onda=2)
+PASS cap5: garagem fechada antes da planta
+PASS cap5: checkpoint oficina  (workshop)
+PASS cap5: salvamento manual
+PASS cap5: planta do Trocador encontrada
+PASS cap5: porta da garagem abre  (obj.ch5.buggy)
+PASS cap5: entrar no Besouro conclui → cap. 6  (ch=6)
+PASS capítulo 6 carrega
+PASS cap6: Manipulador presente no inventário  (["wrench", "pistol", "smg", "shotgun", "manipulator"])
+PASS cap6: objetivo inicial (balizas)  (obj.ch6.beacons)
+PASS cap6: terreno de areia tem colisão  ((-12.91241, 0, -100))
+PASS cap6: Besouro disponível na largada
+PASS cap6: entra no Besouro
+PASS cap6: dirige pelo leito seco até o petroleiro  (pos=(-16.47263, 0.492007, -199.4817) v=15.5 drv=true in=true jump=false sprint=false fire=false paused=false sleep=false frz=false)
+PASS cap6: checkpoint petroleiro  (tanker)
+PASS cap6: checkpoint ossada  (bones)
+PASS cap6: Rastejadores na ossada
+PASS cap6: checkpoint posto avançado  (outpost)
+PASS cap6: cancela bloqueia o Besouro  (z=-518.0)
+PASS cap6: botão da cabine ergue a cancela
+PASS cap6: passa pela cancela  (z=-589.6)
+PASS cap6: tempestade de partículas ativa  (obj.ch6.storm)
+PASS cap6: dentro do Besouro a tempestade não fere  (100 → 100)
+PASS cap6: a pé, a tempestade causa dano  (100 → 85)
+PASS cap6: abrigo protege da tempestade  (85 → 85)
+PASS cap6: tempestade termina na costa  (obj.ch6.lighthouse)
+PASS cap6: checkpoint costa  (coast)
+PASS cap6: salvamento manual
+PASS cap6: chegada ao farol
+PASS cap6: fim da demo leva ao encerramento
+PASS cap6: load restaura estado (cancela aberta, checkpoint costa)
+PASS sala de testes carrega
+PASS sala de testes: todas as armas  (["wrench", "iceaxe", "crowbar", "stunbaton", "pistol", "magnum", "flaregun", "smg1", "smg", "ar1", "oicw", "ar2", "shotgun", "hmg", "sniper", "crossbow", "manipulator", "gravitygun", "physgun", "rpg", "missile", "immolator", "irifle", "guardgun", "grenade", "molotov", "hopwire", "slam", "brickbat", "bugbait", "binoculars"])
+PASS sala de testes: munição máxima  ({ "9mm": 180, "12": 36, "762": 240, "556": 180, "20mm": 6, "338": 30, "flare": 12, "rocket": 5, "fuel": 300, "bolt": 25, "guard": 10, "grenade": 5, "molotov": 5, "hopwire": 3, "slam": 5, "brick": 10, "357": 18, "ar2": 90, "cball": 3, "xbolt": 10, "bugbait": 9 })
+PASS sala de testes: bancada com todas as armas e munições (33 itens)  (33)
+PASS sala de testes: arsenal completo (31 armas)  (["wrench", "iceaxe", "crowbar", "stunbaton", "pistol", "magnum", "flaregun", "smg1", "smg", "ar1", "oicw", "ar2", "shotgun", "hmg", "sniper", "crossbow", "manipulator", "gravitygun", "physgun", "rpg", "missile", "immolator", "irifle", "guardgun", "grenade", "molotov", "hopwire", "slam", "brickbat", "bugbait", "binoculars"])
+PASS sala de testes: 31 botões com texto PT/EN  ([])
+PASS sala de testes: alvo registra acertos de tiro  (acertos=3 dano=45 cur=pistol in=true paused=false ammo=12)
+PASS sala de testes: zerar alvos
+PASS arsenal: 31 armas disparam e consomem munição  ([])
+PASS sala de testes: 6 alvos humanos
+PASS alvo humano: morre e vira ragdoll
+PASS physgun: levita objeto à distância sem puxar  (held=true y 1.60 -> 3.72 d=5.0)
+PASS physgun: fixa objeto no ar  (freeze=true y=3.72)
+PASS gravity gun: empurrão arremessa objeto  (7.17 m)
+PASS AR2: esfera de energia disparada  (3 -> 2, esferas=1)
+PASS sala de testes: gerar esquadrão (4)  (6 -> 10)
+PASS sala de testes: inimigos passivos
+PASS sala de testes: eliminar todos
+PASS sala de testes: remover corpos
+PASS sala de testes: todos os tipos de objeto físico  (20)
+PASS sala de testes: explosão afeta objetos  (6 afetados)
+PASS sala de testes: repor objetos
+PASS sala de testes: zona de dano fere o jogador  (saúde 82)
+PASS sala de testes: curar
+PASS sala de testes: invulnerável
+PASS sala de testes: porta trancada existe
+PASS sala de testes: destrancar porta
+PASS sala de testes: subir escada de mão  (y 0.0 -> 5.2)
+PASS sala de testes: esteira transporta  (z -52.0 -> -49.7)
+PASS sala de testes: predefinição Baixo ao vivo
+PASS sala de testes: tocar fala dublada
+PASS sala de testes: não salva progresso
+PASS sala de testes: painel de desempenho
+PASS sala de testes: reiniciar após morte
+RESULT 223/223 passed in 222.0 s

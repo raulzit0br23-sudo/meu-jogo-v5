@@ -1,0 +1,160 @@
+{
+ "sewer_intro": [
+  {
+   "id": "ch4_ir_01",
+   "who": "irina",
+   "pt": "Está me ouvindo, Varga? O dreno da fundição desemboca no coletor do canal. Siga a água corrente.",
+   "en": "Can you hear me, Varga? The foundry drain empties into the canal collector. Follow the running water."
+  },
+  {
+   "id": "ch4_kv_01",
+   "who": "kovac",
+   "pt": "Os canais levam até a Muralha. Irina deixou um barco na doca velha. Não perca tempo aí embaixo.",
+   "en": "The canals lead to the Wall. Irina left a boat at the old dock. Don't waste time down there."
+  }
+ ],
+ "vig_radio": [
+  {
+   "id": "ch4_vg_01",
+   "who": "vigilante",
+   "pt": "Patrulha sete, varredura do coletor norte. Nenhum cidadão autorizado abaixo da rua.",
+   "en": "Patrol seven, sweeping the north collector. No citizens authorized below street level."
+  }
+ ],
+ "gate_closed": [
+  {
+   "id": "ch4_ir_02",
+   "who": "irina",
+   "pt": "A comporta está fechada. A roda de manivela fica na sala de bombas, no alto da passarela.",
+   "en": "The sluice gate is shut. The crank wheel is in the pump room, up on the catwalk."
+  }
+ ],
+ "gate_open": [
+  {
+   "id": "ch4_ir_03",
+   "who": "irina",
+   "pt": "Isso. Agora a água desce e o caminho para a doca abre.",
+   "en": "That's it. Now the water drops and the way to the dock opens."
+  }
+ ],
+ "boat": [
+  {
+   "id": "ch4_ir_04",
+   "who": "irina",
+   "pt": "Aí está ela. Não é bonita, mas flutua. Suba, ligue o motor e siga o canal para o oeste.",
+   "en": "There she is. Not pretty, but she floats. Climb in, start the engine and follow the canal west."
+  }
+ ],
+ "regente_canal": [
+  {
+   "id": "ch4_rg_01",
+   "who": "regente",
+   "pt": "Cidadãos da Cidade Nove. A Muralha não os aprisiona. Ela os protege do Ermo, onde não há ar, nem lei, nem futuro.",
+   "en": "Citizens of City Nine. The Wall does not imprison you. It protects you from the Waste, where there is no air, no law, no future."
+  }
+ ],
+ "heli_appears": [
+  {
+   "id": "ch4_sd_01",
+   "who": "soldier",
+   "pt": "Caçador Um para Controle. Alvo em embarcação no canal leste. Fogo letal autorizado.",
+   "en": "Hunter One to Control. Target on a boat in the east canal. Lethal fire authorized."
+  },
+  {
+   "id": "ch4_ir_05",
+   "who": "irina",
+   "pt": "Helicóptero. Não pare. Ele erra mais quando você está em movimento.",
+   "en": "Helicopter. Don't stop. It misses more when you keep moving."
+  }
+ ],
+ "barrier": [
+  {
+   "id": "ch4_ir_06",
+   "who": "irina",
+   "pt": "Barreira no canal. A cabine de controle fica no cais da direita. Desça, abra a grade e volte para o barco.",
+   "en": "Barrier across the canal. The control hut is on the right quay. Get out, raise the grate and get back in the boat."
+  }
+ ],
+ "barrier_open": [
+  {
+   "id": "ch4_ir_07",
+   "who": "irina",
+   "pt": "A grade subiu. Volte para o barco, rápido.",
+   "en": "The grate is up. Back to the boat, quickly."
+  }
+ ],
+ "basin": [
+  {
+   "id": "ch4_kv_02",
+   "who": "kovac",
+   "pt": "Há um canhão antiaéreo no píer do reservatório, dos tempos da guerra. Ainda funciona. Derrube aquela coisa.",
+   "en": "There's an anti-aircraft gun on the reservoir pier, from the war. It still works. Bring that thing down."
+  }
+ ],
+ "heli_hit": [
+  {
+   "id": "ch4_ir_08",
+   "who": "irina",
+   "pt": "Acertou. Mais um pouco, ele está soltando fumaça.",
+   "en": "Hit. A little more, it's trailing smoke."
+  }
+ ],
+ "heli_down": [
+  {
+   "id": "ch4_ir_09",
+   "who": "irina",
+   "pt": "Ele caiu. Ele caiu de verdade.",
+   "en": "It's down. It's really down."
+  },
+  {
+   "id": "ch4_kv_03",
+   "who": "kovac",
+   "pt": "Bom tiro, engenheiro. O elevador de carga da Muralha fica no fim do cais. Meus homens controlam a cabine hoje à noite.",
+   "en": "Good shot, engineer. The Wall's cargo lift is at the end of the quay. My men hold the cab tonight."
+  }
+ ],
+ "searchlights": [
+  {
+   "id": "ch4_kv_04",
+   "who": "kovac",
+   "pt": "Os holofotes varrem o cais. Fique atrás dos contêineres e espere o feixe passar.",
+   "en": "The searchlights sweep the quay. Stay behind the containers and wait for the beam to pass."
+  }
+ ],
+ "spotted": [
+  {
+   "id": "ch4_pa_01",
+   "who": "pa",
+   "pt": "Violação no perímetro da Muralha. Unidades ao cais de carga.",
+   "en": "Breach at the Wall perimeter. Units to the cargo quay."
+  }
+ ],
+ "elevator": [
+  {
+   "id": "ch4_kv_05",
+   "who": "kovac",
+   "pt": "Entre no elevador e puxe a alavanca. E não olhe para baixo.",
+   "en": "Get in the lift and pull the lever. And don't look down."
+  }
+ ],
+ "top": [
+  {
+   "id": "ch4_kv_06",
+   "who": "kovac",
+   "pt": "Tomás Varga. Faz dezoito anos que vi seu rosto num crachá do Ministério. Você desenhou os pulmões desta cidade.",
+   "en": "Tomás Varga. Eighteen years since I saw your face on a Ministry badge. You drew the lungs of this city."
+  },
+  {
+   "id": "ch4_kv_07",
+   "who": "kovac",
+   "pt": "Agora vai nos ajudar a parti-los. Do outro lado da Muralha está o Ermo. O doutor Lindqvist espera no Ferro-Velho.",
+   "en": "Now you'll help us break them. Beyond the Wall lies the Waste. Doctor Lindqvist is waiting at the Scrapyard."
+  },
+  {
+   "id": "ch4_ir_10",
+   "who": "irina",
+   "pt": "Eu desço com você. Ninguém atravessa o Ermo sozinho.",
+   "en": "I'm going down with you. Nobody crosses the Waste alone."
+  }
+ ]
+}

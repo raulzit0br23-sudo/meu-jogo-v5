@@ -1,0 +1,46 @@
+{
+ "train_pa": [
+  {"id": "ch1_pa_01", "who": "pa", "pt": "Atenção, passageiros realocados. Esta composição segue para a Estação Central da Cidade Nove. Mantenham seus documentos à mão. O Regente agradece sua cooperação.", "en": "Attention, relocated passengers. This train is bound for Central Station, City Nine. Keep your documents at hand. The Regent thanks you for your cooperation."}
+ ],
+ "train_bohdan": [
+  {"id": "ch1_bo_01", "who": "bohdan", "pt": "Primeira vez na Linha Nove? Dá pra ver. Você ainda olha pela janela.", "en": "First time on Line Nine? I can tell. You still look out the window."},
+  {"id": "ch1_bo_02", "who": "bohdan", "pt": "Lá fora era mar, sabia? Agora chamam de Mar Seco. Eles beberam a água... e agora estão bebendo o ar.", "en": "That out there used to be a sea, you know. Now they call it the Dry Sea. They drank the water... and now they are drinking the air."},
+  {"id": "ch1_bo_03", "who": "bohdan", "pt": "Aquela torre no horizonte é um Trocador. Ninguém fala dela em voz alta. A cada ano, o ar fica mais fino.", "en": "That tower on the horizon is an Exchanger. Nobody speaks of it out loud. Every year, the air gets thinner."},
+  {"id": "ch1_bo_04", "who": "bohdan", "pt": "A máscara ali no banco é sua. Velha, mas o filtro é bom. Na estação, você vai precisar dela mais do que eu.", "en": "The mask on the bench is yours. Old, but the filter is good. At the station, you will need it more than I do."}
+ ],
+ "train_passenger": [
+  {"id": "ch1_ps_01", "who": "passenger", "pt": "Ele fala demais. Os Vigilantes escutam tudo neste trem.", "en": "He talks too much. The Wardens hear everything on this train."}
+ ],
+ "train_mask": [
+  {"id": "ch1_bo_05", "who": "bohdan", "pt": "Seu nome está na lista deles, não está? Tomás Varga... o engenheiro dos dutos. Eu conheço o seu trabalho.", "en": "Your name is on their list, isn't it? Tomás Varga... the duct engineer. I know your work."},
+  {"id": "ch1_bo_06", "who": "bohdan", "pt": "Fique perto de mim na inspeção. Se der errado, há uma porta de serviço à esquerda do posto. Ela leva aos pátios.", "en": "Stay close to me at the inspection. If it goes wrong, there is a service door left of the checkpoint. It leads to the yards."},
+  {"id": "ch1_pa_02", "who": "pa", "pt": "Chegada à Estação Central. Desembarque em ordem. Respire devagar. O ar é um privilégio.", "en": "Arriving at Central Station. Disembark in order. Breathe slowly. Air is a privilege.", "wait": 0.8}
+ ],
+ "station_queue": [
+  {"id": "ch1_bo_07", "who": "bohdan", "pt": "Para a fila. Cabeça baixa. E não olhe para as telas.", "en": "Into the line. Head down. And don't look at the screens."}
+ ],
+ "regente": [
+  {"id": "ch1_rg_01", "who": "regente", "pt": "Cidadãos. O mundo que vocês conheciam desperdiçou o próprio fôlego. Nós apenas o administramos.", "en": "Citizens. The world you knew wasted its own breath. We merely administer it."},
+  {"id": "ch1_rg_02", "who": "regente", "pt": "Cada respiração é um presente do Domínio. Sejam gratos. Sejam calmos. Respirem.", "en": "Every breath is a gift of the Dominion. Be grateful. Be calm. Breathe."}
+ ],
+ "inspection": [
+  {"id": "ch1_vg_01", "who": "vigilante", "pt": "Próximo. Olhe para o leitor.", "en": "Next. Look at the reader.", "wait": 0.6},
+  {"id": "ch1_vg_02", "who": "vigilante", "pt": "Identidade marcada. Detenham o cidadão!", "en": "Flagged identity. Detain the citizen!"},
+  {"id": "ch1_bo_08", "who": "bohdan", "pt": "Tomás, corre! A porta de serviço! Eu seguro eles!", "en": "Tomás, run! The service door! I'll hold them off!"}
+ ],
+ "maint_radio": [
+  {"id": "ch1_vg_03", "who": "vigilante", "pt": "Fugitivo no setor de manutenção. Unidades para o pátio B.", "en": "Fugitive in the maintenance sector. Units to yard B."}
+ ],
+ "yard_radio": [
+  {"id": "ch1_vg_04", "who": "vigilante", "pt": "Pátio B, varredura. Cuidado, ele está armado.", "en": "Yard B, sweep. Careful, he is armed."}
+ ],
+ "irina_gate": [
+  {"id": "ch1_ir_01", "who": "irina", "pt": "Ei! Você é o engenheiro? O Bohdan me avisou pelo rádio. Puxe a alavanca da guarita, eu cubro o portão.", "en": "Hey! Are you the engineer? Bohdan radioed me. Pull the lever in the signal box, I'll cover the gate."}
+ ],
+ "irina_open": [
+  {"id": "ch1_ir_02", "who": "irina", "pt": "Portão aberto. Vem, rápido, antes que mandem os Conscritos.", "en": "Gate's open. Come on, quick, before they send the Conscripts."}
+ ],
+ "irina_exit": [
+  {"id": "ch1_ir_03", "who": "irina", "pt": "Bem-vindo à Cidade Nove, Tomás. Meu pai quer muito te conhecer.", "en": "Welcome to City Nine, Tomás. My father is very eager to meet you."}
+ ]
+}

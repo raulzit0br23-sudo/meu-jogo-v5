@@ -1,0 +1,40 @@
+{
+ "street_intro": [
+  {"id": "ch2_ir_01", "who": "irina", "pt": "Fique perto de mim. As ruas da Cidade Nove têm olhos em cada poste.", "en": "Stay close to me. The streets of City Nine have eyes on every lamppost."},
+  {"id": "ch2_ir_02", "who": "irina", "pt": "Meu pai comanda os Conscritos. Ele não pode aparecer, então mandou a filha. Sorte a sua.", "en": "My father commands the Conscripts. He can't show his face, so he sent his daughter. Lucky you."}
+ ],
+ "kovac_radio": [
+  {"id": "ch2_kv_01", "who": "kovac", "pt": "Irina, é o seu pai. O engenheiro está com você?", "en": "Irina, it's your father. Is the engineer with you?"},
+  {"id": "ch2_ir_03", "who": "irina", "pt": "Está. Inteiro, por enquanto.", "en": "He is. In one piece, for now."},
+  {"id": "ch2_kv_02", "who": "kovac", "pt": "Tomás, você desenhou os dutos que eles transformaram no Trocador. Só você sabe onde ele respira. Leve-o ao bloco catorze.", "en": "Tomás, you drew the ducts they turned into the Exchanger. Only you know where it breathes. Take him to block fourteen."}
+ ],
+ "speech": [
+  {"id": "ch2_rg_01", "who": "regente", "pt": "Cidadãos da Cidade Nove. Hoje celebramos o Dia do Ar Puro.", "en": "Citizens of City Nine. Today we celebrate the Day of Pure Air."},
+  {"id": "ch2_rg_02", "who": "regente", "pt": "Cada respiração que vocês dão foi filtrada, medida e concedida. Gratidão é a única resposta adequada.", "en": "Every breath you take has been filtered, measured and granted. Gratitude is the only proper response."},
+  {"id": "ch2_rg_03", "who": "regente", "pt": "Aos que sabotam os Trocadores: vocês não roubam de nós. Vocês roubam o ar dos seus filhos.", "en": "To those who sabotage the Exchangers: you do not steal from us. You steal the air from your own children."}
+ ],
+ "plaza_search": [
+  {"id": "ch2_ir_04", "who": "irina", "pt": "O holofote varre a praça a cada vinte segundos. Vá pelas sombras, atrás das bancas.", "en": "The searchlight sweeps the plaza every twenty seconds. Use the shadows, behind the stalls."}
+ ],
+ "spotted": [
+  {"id": "ch2_vg_01", "who": "vigilante", "pt": "Movimento na praça! Unidades, convergir!", "en": "Movement in the plaza! Units, converge!"}
+ ],
+ "block_enter": [
+  {"id": "ch2_ir_05", "who": "irina", "pt": "Bloco catorze. Suba até o quinto andar. O velho Matvei guarda umas coisas pra gente.", "en": "Block fourteen. Go up to the fifth floor. Old Matvei keeps a few things for us."}
+ ],
+ "matvei": [
+  {"id": "ch2_mt_01", "who": "matvei", "pt": "Então você é o tal engenheiro. Eu limpava os filtros da linha velha, antes de tudo isso.", "en": "So you're the engineer. I used to clean the filters on the old line, before all this."},
+  {"id": "ch2_mt_02", "who": "matvei", "pt": "Pegue a espingarda no armário. Eu já não tenho mãos firmes pra ela.", "en": "Take the shotgun in the cabinet. My hands aren't steady enough for it anymore."}
+ ],
+ "raid": [
+  {"id": "ch2_vg_02", "who": "vigilante", "pt": "Inspeção de quarteirão! Todos os moradores no corredor, mãos à vista!", "en": "Block inspection! All residents in the hallway, hands where we can see them!"},
+  {"id": "ch2_ir_06", "who": "irina", "pt": "Eles nos seguiram. Pro telhado, agora!", "en": "They followed us. To the roof, now!"}
+ ],
+ "roof_gap": [
+  {"id": "ch2_ir_07", "who": "irina", "pt": "A ponte caiu. Use aquela tábua, ou corra e pule. Não olhe pra baixo.", "en": "The bridge is gone. Use that plank, or run and jump. Don't look down."}
+ ],
+ "roof_split": [
+  {"id": "ch2_ir_08", "who": "irina", "pt": "Eles cortaram meu caminho. Continue pelos telhados até as chaminés do Distrito Leste.", "en": "They've cut me off. Keep going over the rooftops to the East District smokestacks."},
+  {"id": "ch2_kv_03", "who": "kovac", "pt": "Tomás, desça pela escada da fábrica. Lá dentro, você vai ver o que fazem com o nosso povo.", "en": "Tomás, climb down the factory ladder. Inside, you'll see what they do to our people."}
+ ]
+}

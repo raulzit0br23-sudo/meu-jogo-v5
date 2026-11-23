@@ -1,0 +1,58 @@
+; Engine configuration file.
+config_version=5
+
+[application]
+config/name="Atmosfera Zero"
+config/description="FPS original inspirado na atmosfera da beta de 2002."
+config/version="0.5.0-demo"
+run/main_scene="res://src/main.tscn"
+config/features=PackedStringArray("4.3", "Mobile")
+boot_splash/bg_color=Color(0.03, 0.04, 0.045, 1)
+boot_splash/show_image=false
+config/icon="res://icon.png"
+
+[autoload]
+Loc="*res://src/core/loc.gd"
+Settings="*res://src/core/settings.gd"
+InputRouter="*res://src/core/input_router.gd"
+AudioBus="*res://src/core/audio_manager.gd"
+Dialogue="*res://src/core/dialogue.gd"
+Game="*res://src/core/game.gd"
+
+[display]
+window/size/viewport_width=1280
+window/size/viewport_height=720
+window/stretch/mode="canvas_items"
+window/stretch/aspect="expand"
+window/handheld/orientation=4
+window/vsync/vsync_mode=1
+
+[input_devices]
+pointing/emulate_touch_from_mouse=false
+pointing/emulate_mouse_from_touch=true
+
+[physics]
+common/physics_ticks_per_second=60
+3d/sleep_threshold_linear=0.12
+3d/time_before_sleep=0.4
+common/max_physics_steps_per_frame=4
+
+[rendering]
+renderer/rendering_method="mobile"
+renderer/rendering_method.mobile="mobile"
+textures/vram_compression/import_etc2_astc=true
+occlusion_culling/use_occlusion_culling=true
+lights_and_shadows/directional_shadow/size=2048
+lights_and_shadows/directional_shadow/soft_shadow_filter_quality=1
+lights_and_shadows/directional_shadow/soft_shadow_filter_quality.mobile=0
+lights_and_shadows/positional_shadow/soft_shadow_filter_quality.mobile=0
+lights_and_shadows/positional_shadow/atlas_size=2048
+anti_aliasing/quality/msaa_3d=0
+environment/defaults/default_clear_color=Color(0.05, 0.06, 0.06, 1)
+textures/default_filters/anisotropic_filtering_level=2
+
+[navigation]
+
+3d/default_cell_size=0.2
+3d/default_cell_height=0.25
+3d/merge_rasterizer_cell_scale=0.001

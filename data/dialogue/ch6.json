@@ -1,0 +1,78 @@
+{
+ "start": [
+  {
+   "id": "ch6_ir_01",
+   "who": "irina",
+   "pt": "O mar secou em dois anos, quando o Trocador começou a puxar. Sobraram cascos e ossos. Siga as boias e não saia do Besouro sem necessidade.",
+   "en": "The sea dried up in two years, once the Exchanger started pulling. Hulls and bones are all that's left. Follow the buoys and don't leave the Beetle unless you must."
+  }
+ ],
+ "tanker": [
+  {
+   "id": "ch6_lq_01",
+   "who": "lindqvist",
+   "pt": "Aquele é o petroleiro Aurora. A rota passa por dentro do casco. Há um rasgo no costado, grande o bastante para o Besouro.",
+   "en": "That's the tanker Aurora. The route goes through the hull. There's a gash in the side, big enough for the Beetle."
+  }
+ ],
+ "bones": [
+  {
+   "id": "ch6_lq_02",
+   "who": "lindqvist",
+   "pt": "Ossadas de baleia. Os Rastejadores fazem ninho nas costelas. Passe rápido e não pare.",
+   "en": "Whale bones. The Crawlers nest in the ribs. Go through fast and don't stop."
+  }
+ ],
+ "outpost": [
+  {
+   "id": "ch6_sd_01",
+   "who": "soldier",
+   "pt": "Posto avançado doze. Veículo não identificado na zona de exclusão. Interceptar.",
+   "en": "Forward post twelve. Unidentified vehicle in the exclusion zone. Intercept."
+  },
+  {
+   "id": "ch6_ir_02",
+   "who": "irina",
+   "pt": "Um posto do Domínio bloqueia a passagem. A cancela abre pela cabine de controle. Você vai ter que descer.",
+   "en": "A Dominion post blocks the way. The barrier opens from the control booth. You'll have to get out."
+  }
+ ],
+ "outpost_open": [
+  {
+   "id": "ch6_ir_03",
+   "who": "irina",
+   "pt": "Cancela aberta. Volte para o Besouro.",
+   "en": "Barrier's open. Back to the Beetle."
+  }
+ ],
+ "storm": [
+  {
+   "id": "ch6_lq_03",
+   "who": "lindqvist",
+   "pt": "Tempestade de partículas vindo do oeste. Fique dentro do Besouro ou num abrigo. Ela arranca a pele.",
+   "en": "Particle storm coming in from the west. Stay inside the Beetle or in a shelter. It strips the skin off."
+  }
+ ],
+ "storm_out": [
+  {
+   "id": "ch6_ir_04",
+   "who": "irina",
+   "pt": "Saia daí. Lá fora você não dura um minuto.",
+   "en": "Get out of there. You won't last a minute out there."
+  }
+ ],
+ "arrival": [
+  {
+   "id": "ch6_ir_05",
+   "who": "irina",
+   "pt": "Estou vendo o farol do Depósito. Esconda o Besouro nas rochas. Daqui seguimos a pé.",
+   "en": "I can see the Depot lighthouse. Hide the Beetle in the rocks. From here we go on foot."
+  },
+  {
+   "id": "ch6_kv_01",
+   "who": "kovac",
+   "pt": "Bom trabalho. O Depósito guarda os prisioneiros que seguem para o Trocador. Amanhã nós os tiramos de lá.",
+   "en": "Good work. The Depot holds the prisoners bound for the Exchanger. Tomorrow we get them out."
+  }
+ ]
+}

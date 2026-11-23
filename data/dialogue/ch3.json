@@ -1,0 +1,37 @@
+{
+ "factory_intro": [
+  {"id": "ch3_kv_01", "who": "kovac", "pt": "Esta é a Fundição Quatro. Aqui, cidadãos montam as carcaças dos filtros que os sufocam.", "en": "This is Foundry Four. Here, citizens assemble the filter casings that choke them."},
+  {"id": "ch3_kv_02", "who": "kovac", "pt": "A prensa hidráulica no fim do galpão molda todas as peças da Cidade. Pare a prensa e o Trocador para por uma semana.", "en": "The hydraulic press at the end of the hall shapes every part in the city. Stop the press and the Exchanger stops for a week."}
+ ],
+ "pa_shift": [
+  {"id": "ch3_pa_01", "who": "pa", "pt": "Turno sete. A cota de hoje foi elevada em doze por cento. A produtividade é respiração.", "en": "Shift seven. Today's quota has been raised by twelve percent. Productivity is breath."}
+ ],
+ "worker": [
+  {"id": "ch3_wk_01", "who": "worker", "pt": "Não pare do meu lado, eles contam as pausas. Se quer passar, vá pela esteira de carga.", "en": "Don't stop next to me, they count the breaks. If you want through, take the cargo belt."}
+ ],
+ "foreman": [
+  {"id": "ch3_fm_01", "who": "foreman", "pt": "Você não é do turno. Eu não vi nada. O guindaste do fosso ainda funciona, se souber operar.", "en": "You're not on this shift. I didn't see anything. The pit crane still works, if you know how to run it."}
+ ],
+ "pit": [
+  {"id": "ch3_kv_03", "who": "kovac", "pt": "O Fosso dos Escribas. Jogam ali os registros de quem desaparece. Use o guindaste para atravessar.", "en": "The Scribes' Pit. They dump the records of the disappeared down there. Use the crane to get across."}
+ ],
+ "crane_done": [
+  {"id": "ch3_kv_04", "who": "kovac", "pt": "Bom trabalho. Agora, a sala da prensa. Três válvulas de alívio. Feche todas e a pressão faz o resto.", "en": "Good work. Now, the press room. Three relief valves. Close them all and the pressure does the rest."}
+ ],
+ "press_alarm": [
+  {"id": "ch3_pa_02", "who": "pa", "pt": "Alerta. Pressão anômala na prensa quatro. Equipes de segurança, ao galpão principal.", "en": "Alert. Abnormal pressure in press four. Security teams, to the main hall."}
+ ],
+ "valve": [
+  {"id": "ch3_kv_05", "who": "kovac", "pt": "Mais uma válvula. Continue.", "en": "One more valve. Keep going."}
+ ],
+ "overload": [
+  {"id": "ch3_kv_06", "who": "kovac", "pt": "É isso! Puxe a alavanca de sobrecarga e corra para o dreno!", "en": "That's it! Pull the overload lever and run for the drain!"}
+ ],
+ "explosion": [
+  {"id": "ch3_rg_01", "who": "regente", "pt": "Um ato de terrorismo contra o ar de todos. Encontrem o responsável.", "en": "An act of terrorism against everyone's air. Find the one responsible."}
+ ],
+ "drain_exit": [
+  {"id": "ch3_ir_01", "who": "irina", "pt": "Eu vi a fumaça do outro lado do rio. Agora eles sabem o seu nome, engenheiro.", "en": "I saw the smoke from across the river. Now they know your name, engineer."},
+  {"id": "ch3_kv_07", "who": "kovac", "pt": "Venham pela muralha. Está na hora de você conhecer o Trocador por dentro.", "en": "Come through the Wall. It's time you saw the Exchanger from the inside."}
+ ]
+}
